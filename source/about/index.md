@@ -6,7 +6,7 @@ cover: https://s3.amazonaws.com/images.masen.com/2022/02/e8ce6a62142cff83bcfe141
 ---
 Greeting!
 
-I'm Zhe Wang. Currently, I'm a graduate student majoring in *Electrical and Computer Engineering* at *the University of Illinois at Urbana-Champaign*. I first became interested in computers during middle school. By searching the Internet, I learned how to deal with them, such as using FTP to access shared files. I also found ways to make tasks easier, such as running commands to shut the computer down every day after school automatically. I was attracted to computer science through this experience. I borrowed my brother’s teaching material from his university and started to learn the C Language and the basics of computer architecture. These experiences strengthened my goal to become a computer engineer in the future.
+I'm Zhe Wang. Currently, I'm a graduate student majoring in *Electrical and Computer Engineering* at *the University of Illinois at Urbana-Champaign*. I first became interested in computers during middle school. I learned how to deal with them by searching the Internet, such as using FTP to access shared files. I also found ways to make tasks easier, such as running commands to shut the computer down every day after school automatically. I was attracted to computer science through this experience. I borrowed my brother’s teaching material from his university and started to learn the C Language and the basics of computer architecture. These experiences strengthened my goal to become a computer engineer in the future.
 
 ## Work Experience
 
@@ -88,6 +88,28 @@ I am honored as the Good+ Contributor in *Tencent* (About 20%). I think the reas
           SoccerGod is a full-stack website using Spring Boot and React.js. Users can browse news, view teams and players, post topics and comments, and predict results to earn points.
           </br>
           <span class="tag is-info">RESTful APIs</span> <span class="tag is-info">Spring Boot</span> <span class="tag is-info">MySQL</span> <span class="tag is-info">MongoDB</span> <span class="tag is-info">Axios</span> <span class="tag is-info">Python</span> <span class="tag is-info">Google Cloud Platform</span> <span class="tag is-info">Nginx</span> <span class="tag is-info">Maven</span> <span class="tag is-info">Jenkin</span>
+        </div>
+      </div>
+    </div>
+  </div>
+<div class="column">
+     <div class="card">
+      <div class="card-image">
+        <figure class="image is-16by9">
+          <img src="https://s3.amazonaws.com/images.masen.com/2022/03/caa45a1b8cc767d06f530d85ec101295.png" alt="ISISDistributedSystem">
+        </figure>
+      </div>
+      <div class="card-content">
+        <div class="media">
+          <div class="media-content">
+            <p class="title is-4">Distributed Deposit and Transfer System based on ISIS Algorithm</p>
+            <p class="subtitle is-6"><a href="https://github.com/Mr-Wang119/isis">https://github.com/Mr-Wang119/isis</a></p>
+          </div>
+        </div>
+        <div class="content">
+          Distributed Deposit and Transfer System is a distributed system of multiple processes that maintain accounts and transactions. We use the ISIS algorithm to satisfy the requirement of total ordering and build a reliable multicast through implementing the reliable multicast algorithm. TCP errors are captured to detect failures.
+          </br>
+          <span class="tag is-info">Golang</span> <span class="tag is-info">Standard Go Project Layout</span> <span class="tag is-info">Distributed System</span> <span class="tag is-info">ISIS Algorithm</span> <span class="tag is-info">Reliable Multicast Algorithm</span> <span class="tag is-info">Total Ordering</span> <span class="tag is-info">Fault Tolerance</span> <span class="tag is-info">Socket</span> <span class="tag is-info">TCP</span>
         </div>
       </div>
     </div>
