@@ -118,7 +118,7 @@ I am honored as the Good+ Contributor in *Tencent* (About 20%). I think the reas
 
 </br>
 
-I am also interested in distributed system areas. I have read several articles about distributed file and computing systems, such as Google File System, Big Table, Kafka, TAO, etc. The simplicity and efficacy impressed me a lot. I hope to build the same one via careful design and knowledge of related areas. I am also taking related courses and building a distributed Key-Value database system with high reliability, scalability, and consistency. Also, I am implementing a Bitcoin client using Rust with self-designed Blocks.
+I am also interested in distributed system areas. I have read several articles about distributed file and computing systems, such as {% post_link Learning-Notes-Google-File-System Google File System%}, Big Table, Kafka, TAO, etc. The simplicity and efficacy impressed me a lot. I hope to build the same one via careful design and knowledge of related areas. I am also taking related courses and building a distributed Key-Value database system with high reliability, scalability, and consistency. Also, I am implementing a Bitcoin client using Rust with self-designed Blocks.
 
 I am actively looking for a summer internship in the US.
 
