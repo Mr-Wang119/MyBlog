@@ -2017,12 +2017,15 @@
     "resolve" "^1.11.0"
     "tildify" "^2.0.0"
 
-"hexo-component-inferno@^1.0.2":
-  "integrity" "sha512-oLiPxrhO/KMU4kGrgVAF3R4DWdRjMXiD7qV7rDaSaMpADP4Nq0EJGvHVas4rzzx2WTQ5AZpGyB74jNV60PKfMA=="
-  "resolved" "https://registry.npmjs.org/hexo-component-inferno/-/hexo-component-inferno-1.1.0.tgz"
-  "version" "1.1.0"
+"hexo-component-inferno@^1.0.2", "hexo-component-inferno@^1.2.0":
+  "integrity" "sha512-UGrkw14QwnlOsMkLbdD6fA+ZJWYRwUaWojwN7f2wKP/wNZMCYWDDjiB02rqZXeOwOEXm4HNQmVboS/oQUEzYTw=="
+  "resolved" "https://registry.npmjs.org/hexo-component-inferno/-/hexo-component-inferno-1.2.0.tgz"
+  "version" "1.2.0"
   dependencies:
     "ajv" "^8.8.2"
+    "hexo" "^6.0.0"
+    "hexo-pagination" "^2.0.0"
+    "hexo-util" "^2.2.0"
     "inferno" "^7.3.3"
     "inferno-create-element" "^7.3.3"
     "js-yaml" "^4.1.0"
