@@ -10,7 +10,9 @@ I'm Zhe Wang. Currently, I'm a graduate student majoring in *Electrical and Comp
 
 ## Work Experience
 
-I have one year of experience as a full-time software engineer in the *WeChat group* <i class="fab fa-weixin"></i> of *Tencent Technology*. In my short time there, I’ve already contributed to two main projects of the company, *WeChat for Mac* and *WeChat for Car*. These two kinds of software have nearly **5 million users**.
+<i class="fab fa-apple"></i> I worked at Apple on the Core Data team for three months as an intern in 2022. There I collaborated with my colleagues and implemented new Swift APIs for sharing data between Apple devices. 
+
+<i class="fab fa-weixin"></i> I also have one year of experience as a full-time software engineer in the *WeChat group* of *Tencent Technology*. In my short time there, I’ve already contributed to two main projects of the company, *WeChat for Mac* and *WeChat for Car*. These two kinds of software have nearly **5 million users**.
 
 <div class="columns">
   <div class="column">
